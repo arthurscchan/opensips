@@ -1,0 +1,1 @@
+$(hdr(User-Agent){s.select,1,-})
